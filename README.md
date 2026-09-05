@@ -1,8 +1,5 @@
 # 👋 Hi, I'm Kiran Kumar Desaboina
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=B.Tech+Computer+Science+Engineering+Student;Full+Stack+%7C+Frontend+Developer;React.js+%7C+JavaScript+%7C+Node.js;Building+Practical+Web+Applications;Always+Learning+%26+Building+🚀" alt="Typing SVG" />
-</p>
 
 <p align="center">
   <a href="https://github.com/kiran-723">
